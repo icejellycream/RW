@@ -1,2 +1,5 @@
 # RW
-kernel RW
+rw
+rwR3
+PELoad
+
